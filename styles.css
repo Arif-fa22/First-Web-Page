@@ -1,0 +1,18 @@
+.hero-section {
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.features .icon-lg {
+    font-size: 3rem;
+    color: #007bff;
+}
+
+.testimonials blockquote {
+    background: #f8f9fa;
+    padding: 20px;
+    border-left: 5px solid #007bff;
+}
